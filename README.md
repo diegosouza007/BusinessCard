@@ -10,7 +10,7 @@ Foi utilizado neste projeto HTML e CSS.
 
 ## Modelo sujerido(antes)
 
-<img src="./images/preview-old.png">
+<img src="./images/preview-old.png" width="400px">
 
 ## Modelo desenvolvido(depois)
 
