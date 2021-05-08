@@ -8,10 +8,10 @@ O resultando ficou melhor apresentável que o do modelo do curso, além de me fa
 
 Foi utilizado neste projeto HTML e CSS.
 
-## Modelo sujerido
+## Modelo sujerido(antes)
 
-<img src="#">
+<img src="./images/preview-old.png">
 
-## Modelo desenvolvido
+## Modelo desenvolvido(depois)
 
 <img src="#">
