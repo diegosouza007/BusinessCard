@@ -14,4 +14,4 @@ Foi utilizado neste projeto HTML e CSS.
 
 ## Modelo desenvolvido(depois)
 
-<img src="#">
+<em>Em desenvolvimento...</em>
