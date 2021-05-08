@@ -1,0 +1,16 @@
+#container {
+    background: #DF17E6;
+    background: -webkit-linear-gradient(top left, #DF17E6, #0B7AFF);
+    background: -moz-linear-gradient(top left, #DF17E6, #0B7AFF);
+    background: linear-gradient(to bottom right, #DF17E6, #0B7AFF);
+    width: 400px;
+    height: 200px;
+    border: black;
+    border-style: none;
+}
+
+#link {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
