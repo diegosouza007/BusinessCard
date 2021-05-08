@@ -14,6 +14,6 @@ Foi utilizado neste projeto HTML e CSS.
 
 ## Modelo desenvolvido(depois)
 
-<em>Em desenvolvimento...</em>
+<img src="./images/preview-new.png" width="400px">
 
-Demonstração: <a href="#">Business Card</a>
+Demonstração: <a href="https://diegosouza007.github.io/BusinessCard/">Business Card</a>

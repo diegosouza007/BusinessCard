@@ -12,7 +12,6 @@
 
 .link {
     color: white;
-    text-decoration: none;
     text-align: center;
     font-family: 'Open Sans', sans-serif;
     font-size: 11px;
@@ -39,8 +38,9 @@
     margin-top: -19px;
 }
 
-#face {
-    list-style-image: url(../images/facebook.svg);
+#social-icons {
+    margin-top: -95px;
+    margin-left: -22px;
 }
 
 a {
@@ -60,6 +60,7 @@ p {
 
 li {
     font-family: 'Open Sans', sans-serif;
+    list-style-type: none;
     font-size: 14px;
     height: 20px;
     margin-top: 0px;
