@@ -9,27 +9,44 @@
     border-style: none;
 }
 
-#link {
+.link {
     color: white;
     text-decoration: none;
     text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10px;
 }
 
 #name {
     color: white;
+    text-align: center;
+    padding-top: 30px;
+}
+
+#separator {
+    margin-top: -15px;
 }
 
 #job {
     color: white;
+    margin-top: -1px;
+    text-align: right;
+    margin-right: 35px;
+}
+
+p {
+    text-align: right;
+    margin-top: -40px;
+    margin-right: 15px;
 }
 
 h1 {
-    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Audiowide', cursive;
     font-size: 36px;
 }
 
 h3 {
-    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Julius Sans One', sans-serif;
     font-size: 16px;
 }
 
